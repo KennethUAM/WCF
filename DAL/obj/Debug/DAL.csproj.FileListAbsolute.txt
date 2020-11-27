@@ -1,0 +1,6 @@
+C:\Users\Kenneth\Desktop\WCF\WCF\DAL\bin\Debug\DAL.dll
+C:\Users\Kenneth\Desktop\WCF\WCF\DAL\bin\Debug\DAL.pdb
+C:\Users\Kenneth\Desktop\WCF\WCF\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\WCF\WCF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\WCF\WCF\DAL\obj\Debug\DAL.dll
+C:\Users\Kenneth\Desktop\WCF\WCF\DAL\obj\Debug\DAL.pdb

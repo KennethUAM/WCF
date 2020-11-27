@@ -1,0 +1,9 @@
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\bin\Debug\BLL.dll
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\bin\Debug\BLL.pdb
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\bin\Debug\DAL.dll
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\bin\Debug\DAL.pdb
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\obj\Debug\BLL.dll
+C:\Users\Kenneth\Desktop\WCF\WCF\BLL\obj\Debug\BLL.pdb
