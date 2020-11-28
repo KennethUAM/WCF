@@ -10,3 +10,15 @@ C:\Users\Kenneth\Desktop\WCF\WCF\SVC\bin\Debug\DAL.dll
 C:\Users\Kenneth\Desktop\WCF\WCF\SVC\bin\Debug\BLL.pdb
 C:\Users\Kenneth\Desktop\WCF\WCF\SVC\bin\Debug\DAL.pdb
 C:\Users\Kenneth\Desktop\WCF\WCF\SVC\obj\Debug\SVC.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\SVC.dll.config
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\SVC.dll
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\SVC.pdb
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\BLL.dll
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\DAL.dll
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\BLL.pdb
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\bin\Debug\DAL.pdb
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.dll
+C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.pdb
