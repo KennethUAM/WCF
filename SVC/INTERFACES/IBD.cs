@@ -16,6 +16,8 @@ namespace SVC.INTERFACES
         [OperationContract]
         DataTable Get_DT_Param(DataTable DT_Param);
 
+        [OperationContract]
+        string Login(string usuario, string password);
 
         [OperationContract]
         DataTable ListarFiltrar(string sNombreTabla, string sNombreSP, DataTable DT_Param);

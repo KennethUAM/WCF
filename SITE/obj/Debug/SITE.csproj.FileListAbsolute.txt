@@ -28,3 +28,18 @@ C:\Users\Kenneth\Desktop\WCF_backend\SITE\obj\Debug\SITE.csproj.CoreCompileInput
 C:\Users\Kenneth\Desktop\WCF_backend\SITE\obj\Debug\SITE.csproj.CopyComplete
 C:\Users\Kenneth\Desktop\WCF_backend\SITE\obj\Debug\SITE.dll
 C:\Users\Kenneth\Desktop\WCF_backend\SITE\obj\Debug\SITE.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\SITE.dll.config
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\SITE.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\SITE.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\BLL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\SVC.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\BLL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\SVC.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\bin\SVC.dll.config
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\obj\Debug\SITE.csprojAssemblyReference.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\obj\Debug\SITE.csproj.CopyComplete
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\obj\Debug\SITE.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SITE\obj\Debug\SITE.pdb

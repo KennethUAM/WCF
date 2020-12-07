@@ -22,3 +22,15 @@ C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.csproj.CoreCompileInputs.
 C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.csproj.CopyComplete
 C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.dll
 C:\Users\Kenneth\Desktop\WCF_backend\SVC\obj\Debug\SVC.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\obj\Debug\SVC.csprojAssemblyReference.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\obj\Debug\SVC.csproj.CoreCompileInputs.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\obj\Debug\SVC.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\obj\Debug\SVC.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\SVC.dll.config
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\SVC.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\SVC.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\BLL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\BLL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\bin\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\SVC\obj\Debug\SVC.csproj.CopyComplete
