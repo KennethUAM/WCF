@@ -10,3 +10,8 @@ C:\Users\Kenneth\Desktop\WCF_backend\DAL\obj\Debug\DAL.csprojAssemblyReference.c
 C:\Users\Kenneth\Desktop\WCF_backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\Kenneth\Desktop\WCF_backend\DAL\obj\Debug\DAL.dll
 C:\Users\Kenneth\Desktop\WCF_backend\DAL\obj\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\DAL\bin\Debug\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\DAL\bin\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\DAL\obj\Debug\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\WCF\DAL\obj\Debug\DAL.pdb

@@ -23,13 +23,9 @@ namespace SVC.CONTRACTS
             return DT_Param;
         }
 
-        public string Login(string usuario, string password, string sNombreSP)
-        {​​
-            var mensaje = "";
-            var susuario = "admin";
-            var sPass = "1234";
-
-
+        public string Login(string usuario, string password)
+        { 
+            var mensaje = ""; 
             cls_BD_DAL Obj_BD_DAL = new cls_BD_DAL();
             cls_BD_BLL Obj_BD_BLL = new cls_BD_BLL();
             DataTable DT_Param = new DataTable("PARAMETROS");
@@ -53,7 +49,7 @@ namespace SVC.CONTRACTS
 
             DT_Param.Rows.Add(row);
             DT_Param.Rows.Add(rowx);
-            Obj_BD_DAL.sNomSP = sNombreSP;
+            Obj_BD_DAL.sNomSP = "GEN_Login";
             Obj_BD_DAL.sNomTabla = "usuario";
             Obj_BD_DAL.DT_Parametros = DT_Param;
 
@@ -61,10 +57,10 @@ namespace SVC.CONTRACTS
             Obj_BD_BLL.ExecDataAdapter(ref Obj_BD_DAL);
             DataTable DT_Resultado = new DataTable("resultado");
             if (Obj_BD_DAL.sMsjErrorBD == string.Empty)
-            {​​
+            {
                 DT_Resultado = Obj_BD_DAL.DS.Tables[0];
                 mensaje = DT_Resultado.Rows[0][0].ToString();
-            }​​
+            }
 
 
 
